@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tech_gadgets/static/css/main.974da663.css",
+    "main.js": "/tech_gadgets/static/js/main.14794b54.js",
+    "static/media/2.png": "/tech_gadgets/static/media/2.5f080d9e47bf46ca3fce.png",
+    "static/media/3.png": "/tech_gadgets/static/media/3.c7785c796d0b2bf5aa2b.png",
+    "static/media/1.png": "/tech_gadgets/static/media/1.87f6c2f48f7e15ed845b.png",
+    "index.html": "/tech_gadgets/index.html",
+    "main.974da663.css.map": "/tech_gadgets/static/css/main.974da663.css.map",
+    "main.14794b54.js.map": "/tech_gadgets/static/js/main.14794b54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.974da663.css",
+    "static/js/main.14794b54.js"
+  ]
+}
